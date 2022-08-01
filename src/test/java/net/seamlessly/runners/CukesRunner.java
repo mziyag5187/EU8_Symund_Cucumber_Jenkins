@@ -18,7 +18,7 @@ import org.junit.runner.RunWith;
 
         glue = "net/seamlessly/step_definitions",
         dryRun = false,
-        tags = "@wip",
+        tags = "@SEAMLES-1932",
         publish = false
 
 )
